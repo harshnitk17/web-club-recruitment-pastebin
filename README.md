@@ -15,3 +15,13 @@ usage instructions-
 
 <br>limitations-
 <br>1.If a user shares the url of the paste which is generated after clicking paste it button and the user hasnot signed out of the system yet, then any anonymous person who gets that link can directly access the user's account. Therefore to prevent it I have added the SHARE POST option using which the user can safely generate a random url and share it between his friends . Using that url anonymous persons can only see the psate and the user's account remains safe from the anonymous person .<br>
+ 
+ <br> TOOLS AND FRAMEWORKS USED<br>
+ framework- django<br>
+ template for front end devlopment- taken from this website :- FreeHTML5.co<br>
+ websites/resources used:-<br>
+ 1.https://docs.djangoproject.com/en/2.1/intro/<br>
+ 2.overiq.com<br>
+ 3.stackoverflow (for debugging various errors)<br>
+ 
+ <br> Special thanks to mentors of IEEE Nitk,web devlopment smp
