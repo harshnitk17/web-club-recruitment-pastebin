@@ -19,6 +19,7 @@ usage instructions-
  <br> TOOLS AND FRAMEWORKS USED<br>
  framework- django<br>
  template for front end devlopment- taken from this website :- FreeHTML5.co<br>
+ <br> for syntax highlighting-- prism js<br>
  websites/resources used:-<br>
  1.https://docs.djangoproject.com/en/2.1/intro/<br>
  2.overiq.com<br>
